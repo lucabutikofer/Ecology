@@ -24,9 +24,14 @@ html, body { background: white; }
 
 @font-face {
   font-family: duospace;
-  src: url(https://github.com/iaolo/iA-Fonts/blob/ba31f88a1e71f413f97bbd23a99e21b29d4c3a28/iA%20Writer%20Duospace/Webfonts/iAWriterDuospace-Bold.woff);
+  src: url(https://github.com/iaolo/iA-Fonts/blob/ba31f88a1e71f413f97bbd23a99e21b29d4c3a28/iA%20Writer%20Duospace/Webfonts/iAWriterDuospace-Regular.woff2);
 }
 
+@font-face {
+  font-family: duospace;
+  src: url(https://github.com/iaolo/iA-Fonts/blob/ba31f88a1e71f413f97bbd23a99e21b29d4c3a28/iA%20Writer%20Duospace/Webfonts/iAWriterDuospace-Bold.woff);
+  font-weight: bold;
+}
 
 html { height: 100%; }
 
