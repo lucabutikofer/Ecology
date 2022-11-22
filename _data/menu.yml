@@ -50,7 +50,7 @@ entries:
 
   - title: Contact
     entries:
-      - title: You can write to me at "*write*" at  "lucabutikofer" dot "name".
+      - title: You can write to me at <a href="mailto:write@lucabutikofer.name">write@lucabutikofer.name</a>.
 
   - title: <a href = https://lucabutikofer.github.io/>
            Root page
