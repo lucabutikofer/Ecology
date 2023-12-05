@@ -26,6 +26,13 @@ entries:
                A new method for modelling biological invasions from early spread data accounting for anthropogenic dispersal.</a>
                Plos One (2018).
 
+
+  - title: Projects
+    entries:
+      - title: 4°C or more, Swiss landscapes under climate change
+        url: projects/Project_4C
+
+
   - title: Software
     entries:
       - title: WofosR, crop suitability model in R
@@ -35,10 +42,6 @@ entries:
       - title: Biolinv, modelling and forecasting biological invasions in R
         url: https://cran.r-project.org/package=Biolinv
 
-  - title: Projects
-    entries:
-      - title: 4°C or more, Swiss landscapes under climate change
-        url: projects/Project_4C
 
   - title: Links
     entries:
@@ -51,9 +54,11 @@ entries:
       - title: google scholar
         url: https://scholar.google.com/citations?hl=en&user=0u4gW8kAAAAJ
 
+
   - title: Contact
     entries:
       - title: You can write to me at <a href="mailto:write@lucabutikofer.name">write@lucabutikofer.name</a>.
+
 
   - title: <a href = https://lucabutikofer.github.io/>
            Root page
