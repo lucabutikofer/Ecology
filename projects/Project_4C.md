@@ -9,7 +9,7 @@ date: "2023-12-05"
 
 
 ![](https://github.com/lucabutikofer/Ecology/blob/main/figures/Entremont_Evolution.gif?raw=true)
-![](figures/Legend_LULC.png)
+![](https://github.com/lucabutikofer/Ecology/blob/main/figures/Legend_LULC.png?raw=true)
 
 # Project summary
 The landscape, in its diversity, is an important resource for Switzerland and strongly influences the quality of human life. However, possible changes to landscapes due to climate change, and consequently the impacts on humans, have hardly been addressed so far. This project has developed and presented different scenarios on how climate change could affect the landscape. Its objective was to raise awareness in society about the effects of climate change on the landscape. The approach assumes a relatively significant global warming that poses high risks to humans and the environment. The chosen scenario predicts an average temperature increase of about 4 °C compared to the average temperature between 1981 and 2010. It represents situations where the goals of the 2015 Paris Agreement on climate are not achieved.
