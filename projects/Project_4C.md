@@ -5,7 +5,7 @@ author: "Luca Bütikofer"
 date: "2023-12-05"
 ---
 
-[Reports](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/) \| [Visualisations](https://viergrad.envidat.ch) \| [Videos](https://envidat.ch/#/metadata/teaser-videos-swiss-landscapes-under-climate-change)
+[Reports](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/) \| [Visualisations](https://viergrad.envidat.ch) \| [Videos](https://envidat.ch/#/metadata/teaser-videos-swiss-landscapes-under-climate-change) \| [Swiss Federal Office For the Environment](https://www.bafu.admin.ch/bafu/fr/home/themes/paysage/dossiers/le-paysage-changera-avec-le-climat.html) \| [Wotson News](https://www.watson.ch/schweiz/klima/692747836-so-sieht-die-schweiz-in-60-jahren-aus-wenn-wir-nicht-aufpassen)
 
 # Project summary
 The landscape, in its diversity, is an important resource for Switzerland and strongly influences the quality of human life. However, possible changes to landscapes due to climate change, and consequently the impacts on humans, have hardly been addressed so far. This project has developed and presented different scenarios on how climate change could affect the landscape. Its objective was to raise awareness in society about the effects of climate change on the landscape. The approach assumes a relatively significant global warming that poses high risks to humans and the environment. The chosen scenario predicts an average temperature increase of about 4 °C compared to the average temperature between 1981 and 2010. It represents situations where the goals of the 2015 Paris Agreement on climate are not achieved.
