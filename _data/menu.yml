@@ -35,12 +35,19 @@ entries:
       - title: Biolinv, modelling and forecasting biological invasions in R
         url: https://cran.r-project.org/package=Biolinv
 
+- title: Projects
+    entries:
+      - title: 4°C or more, Swiss landscapes under climate change
+        url: projects/Project_4C.md
+      - title: WofosR, crop suitability model in R
+        url: WofostR2
+      - title: LingraNR, grassland productivity model in R
+        url: LingraNR
+
   - title: Links
     entries:
       - title: github
         url: https://github.com/lucabutikofer
-      - title: 4°C or more, Swiss landscapes under climate change
-        url: https://www.gmba.unibe.ch/research/projects/4c_or_more/
       - title: Centre Interdisciplinaire de Recherche sur la Montagne
         url: https://www.unil.ch/centre-montagne/home.html
       - title: Aubert Foundation
