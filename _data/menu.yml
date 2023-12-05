@@ -38,11 +38,7 @@ entries:
 - title: Projects
     entries:
       - title: 4°C or more, Swiss landscapes under climate change
-        url: Project_4C.md
-      - title: WofosR, crop suitability model in R
-        url: WofostR2
-      - title: LingraNR, grassland productivity model in R
-        url: LingraNR
+        url: Project_4C
 
   - title: Links
     entries:
