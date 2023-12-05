@@ -11,6 +11,8 @@ date: "2023-12-05"
 
 
 # Project summary
+The following text is a GPT3 translation of the summary at the beginning of the [French version of the official project report](https://www.wsl.ch/fr/publications/4-c-et-plus-les-paysages-suisses-face-au-changement-climatique/).
+
 The landscape, in its diversity, is an important resource for Switzerland and strongly influences the quality of human life. However, possible changes to landscapes due to climate change, and consequently the impacts on humans, have hardly been addressed so far. This project has developed and presented different scenarios on how climate change could affect the landscape. Its objective was to raise awareness in society about the effects of climate change on the landscape. The approach assumes a relatively significant global warming that poses high risks to humans and the environment. The chosen scenario predicts an average temperature increase of about 4 °C compared to the average temperature between 1981 and 2010. It represents situations where the goals of the 2015 Paris Agreement on climate are not achieved.
 
 A literature review and expert interviews allowed us to develop a qualitative impact model based on which we deduced scenarios for landscape evolution under much warmer climatic conditions. On the other hand, we modeled changes in land use potential and the composition of plant communities using quantitative methods.
